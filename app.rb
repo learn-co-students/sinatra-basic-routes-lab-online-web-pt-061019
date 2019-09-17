@@ -12,5 +12,5 @@ class App < Sinatra::Base
   get '/favorite-song' do
     "My favorite song is Another Day In The Paradise."
   end
-
+# comment
 end
